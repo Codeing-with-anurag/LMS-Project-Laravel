@@ -1,0 +1,11 @@
+.error{
+    color: red !important;
+    font-size: 13px !important;
+    font-weight:bold !important;
+}
+.has-error{
+    border-color:red !important;
+}
+ul li .active{
+    color:#31b978 !important;
+}
